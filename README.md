@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tuffy</h1>
-<h3 align="center">A passionate software engineer.</h3>
+<h3 align="center">A passionate software engineer, digital marketer and data analyst.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuffycodes&label=Profile%20views&color=0e75b6&style=flat" alt="tuffycodes" /> </p>
 
