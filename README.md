@@ -1,6 +1,6 @@
 👋 Welcome to my GitHub Profile!
 
-I'm Tuffy Calls, a passionate and dedicated Software Engineer on an endless journey of turning lines of code into transformative experiences. With a keen eye for innovation and a heart for elegant solutions, I thrive in the dynamic realm of software development. My mission? To craft digital solutions that not only meet today's needs but also lay the foundation for tomorrow's technological landscapes.
+I'm Tuffy, a passionate and dedicated Software Engineer on an endless journey of turning lines of code into transformative experiences. With a keen eye for innovation and a heart for elegant solutions, I thrive in the dynamic realm of software development. My mission? To craft digital solutions that not only meet today's needs but also lay the foundation for tomorrow's technological landscapes.
 
 🚀 As a firm believer in the power of clean code and user-centric design, I blend creativity and logic to engineer software that not only functions flawlessly but also delights users at every interaction. My toolkit includes a diverse range of programming languages, frameworks, and tools, allowing me to adapt and excel in various domains.
 
