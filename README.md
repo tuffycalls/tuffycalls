@@ -1,13 +1,18 @@
-👋 Welcome to my GitHub Profile!
+<h1 align="center">Hi 👋, I'm Tuffy</h1>
+<h3 align="center">A passionate software engineer.</h3>
 
-I'm Tuffy, a passionate and dedicated Software Engineer on an endless journey of turning lines of code into transformative experiences. With a keen eye for innovation and a heart for elegant solutions, I thrive in the dynamic realm of software development. My mission? To craft digital solutions that not only meet today's needs but also lay the foundation for tomorrow's technological landscapes.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tuffycodes&label=Profile%20views&color=0e75b6&style=flat" alt="tuffycodes" /> </p>
 
-🚀 As a firm believer in the power of clean code and user-centric design, I blend creativity and logic to engineer software that not only functions flawlessly but also delights users at every interaction. My toolkit includes a diverse range of programming languages, frameworks, and tools, allowing me to adapt and excel in various domains.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tuffycodes" alt="tuffycodes" /></a> </p>
 
-🌱 Continuous learning is at the core of my philosophy. In this ever-evolving tech ecosystem, I relish the opportunity to embrace emerging technologies, master new methodologies, and collaborate with like-minded individuals to push the boundaries of what's possible.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/arpan.off" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arpan.off" height="30" width="40" /></a>
+</p>
 
-🎯 Whether it's developing robust backend systems, creating intuitive user interfaces, or tackling complex algorithms, I approach each challenge with unwavering enthusiasm and a commitment to excellence. My GitHub repositories are a reflection of this dedication – a showcase of projects that highlight my skills, problem-solving prowess, and passion for elegant software engineering.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-🌟 Join me on this coding odyssey as I navigate through the realms of ones and zeros, leaving behind a trail of innovation, creativity, and impactful solutions. Let's connect, collaborate, and together, we'll build the future, one commit at a time.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tuffycodes&show_icons=true&locale=en&layout=compact" alt="tuffycodes" /></p>
 
-Happy coding! ✨👨‍💻
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tuffycodes&show_icons=true&locale=en" alt="tuffycodes" /></p>
